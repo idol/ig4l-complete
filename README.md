@@ -1,6 +1,7 @@
 # ig4l-complete
 All instagram 4s
-instagram.com/xe3u
+
+https://instagram.com/xe3u
 
 DL:
-https://raw.githubusercontent.com/idol/ig4l-complete/master/4l.txt
+https://github.com/idol/ig4l-complete/releases/download/1.0/4l.txt
